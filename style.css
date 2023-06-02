@@ -1,0 +1,109 @@
+h1{
+    text-align: center;
+    color: azure;
+}
+.head2
+{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 35px;
+}
+.convert
+{
+    height: 40px;
+    width:70px;
+}
+.buttn
+{
+    align-content: center;
+    padding-left:45%;
+    padding-right: 45%;
+}
+.convert
+{
+    border-radius: 50%;
+}
+.cs
+{
+    font-size: 20px;
+}
+.fh
+{
+    font-size: 20px;
+}
+.container1
+{
+    background-image: url(tocbackground.jpg);
+    background-size: cover;
+    width:100%;
+    height: 100vh;
+}
+.head1
+{
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.space
+{
+    padding-left: 60px;
+    color: black;
+    font-weight: bolder;
+}
+.spc
+{
+    color: black;
+    font-weight: bolder;
+    padding-left: 59%;
+}
+.r
+{
+    padding-left: 20%;
+}
+
+/* CSS */
+.button-43 {
+  background-image: linear-gradient(-180deg, #37AEE2 0%, #1E96C8 100%);
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-size: 16px;
+  justify-content: center;
+  padding: 1rem 1.75rem;
+  text-decoration: none;
+  width: 100%;
+  border: 0;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-43:hover {
+  background-image: linear-gradient(-180deg, #1D95C9 0%, #17759C 100%);
+}
+
+@media (max-width: 768px) {
+  .button-43 {
+    padding: 1rem 2rem;
+  }
+  .buttn
+  {
+    padding-left:7%;
+    padding-right:75%;
+  }
+  .head2
+  {
+    padding-bottom: 2px;
+  }
+  .r
+    {
+    padding-left: 0%;
+    }
+    .spc
+    {
+        padding-left: 0%;
+    }
+}
